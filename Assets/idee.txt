@@ -1,0 +1,24 @@
+Ideeën:
+--------
+
+1) Rook, komt onder deur uit.
+2) Druk/breek op brandalarm
+3) Breng u zelf in veiligheid, volg exit pijlen.
+3b) Probeer een deur te openen.
+	Deze blokeert
+4) Probeer andere deur
+ Deze loopt dood op 
+5) Loop door naar andere deur
+6) Loop door naar de exit.
+
+Details:
+--------
+1) Particles, rook boven verhinderd zicht, bukken geeft een beter zicht.
+Ook een brandend geluid, of rookgeluid kan klinken.
+
+2) druk op brandalarm knop
+	Het brandalarm gaat af.
+3) Ook de brandverlichting gaat aan, verlichtingborden gaan aan.
+
+4) 
+

@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.firedrill.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\LudusAdmin\\Desktop\\Fire Escape David Ferns\\Unity Project - Copie\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "fireDrill [Testing]"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+Idee:
+-------
+
+Fog: Window => lightning=> fog density
+
+Postprocessing: add postprocesing to camera.
+	create postprocessing profile
+
+Smoke: particle systems
